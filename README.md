@@ -1,1 +1,2 @@
 # Loan_Eligibility_Prediction
+Project objective - The project objective for Loan Eligibility Prediction is to develop a machine learning model that can predict whether a loan applicant is eligible for a loan based on certain features such as income, credit score, loan amount, etc. This model can help financial institutions automate the loan approval process, making it faster and more efficient while reducing the risk of manual errors. The ultimate goal is to improve the overall customer experience and increase the speed at which loans are approved.
